@@ -1,16 +1,4 @@
 # bmi_appmyself
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![BMI_PICTURE_RESULTPAGE](https://github.com/sherifshouaib/bmi_app/assets/67573195/b6d58a8c-645d-42e2-a6c5-acee38ec9de0)
+![BMI_PICTURE_HOMEPAGE](https://github.com/sherifshouaib/bmi_app/assets/67573195/6f18fefe-8381-490d-a5c2-7c61ad1d9623)
